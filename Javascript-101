@@ -1,0 +1,5 @@
+String => "See on string väärtus", 'See on samuti string väärtus', `See on ka string väärtus`
+Number (int, float) => 42
+Boolean => true/false, jah/ei, 1/0
+Array => []
+Object => {}
